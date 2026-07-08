@@ -1,7 +1,7 @@
 MIT License
 
-Copyright (c) 2026 Saif.dev
+Copyright (c) 2026 Saif-dev-2012
 
 Permission is granted to use this EFI for Dell Latitude 5490,
 but you MUST keep this credit and link to the original repo:
-https://github.com/
+https://github.com/Saif-dev-2012/Dell-latitude-5490-Efi-Open-Core-Mojave-By-Saif-dev-2012
