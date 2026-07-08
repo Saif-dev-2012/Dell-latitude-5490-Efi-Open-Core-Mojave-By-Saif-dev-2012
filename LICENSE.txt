@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2026 Saif.dev
+
+Permission is granted to use this EFI for Dell Latitude 5490,
+but you MUST keep this credit and link to the original repo:
+https://github.com/
